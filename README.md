@@ -5,8 +5,6 @@
 
 [![LinkedIn](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)](https://www.linkedin.com/in/dennyzhang001) [![Twitter](https://www.dennyzhang.com/wp-content/uploads/sns/twitter.png)](https://twitter.com/dennyzhang001) [![Slack](https://www.dennyzhang.com/wp-content/uploads/sns/slack.png)](https://www.dennyzhang.com/slack) [![Github](https://www.dennyzhang.com/wp-content/uploads/sns/github.png)](https://github.com/DennyZhang)
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/ovh/cds)](https://goreportcard.com/report/github.com/ovh/cds) [![Coverage Status](https://coveralls.io/repos/github/DennyZhang/remote-commands-servers/badge.svg?branch=master)](https://coveralls.io/github/DennyZhang/remote-commands-servers?branch=master) [![Docker](https://www.dennyzhang.com/wp-content/uploads/sns/docker.png)](https://hub.docker.com/r/denny/chatops/)
-
 File me [tickets](https://github.com/DennyZhang/cleanup_old_files/issues) or star [the repo](https://github.com/DennyZhang/cleanup_old_files).
 
 Clean up old files or folders
